@@ -2,7 +2,7 @@
 🎬 Movie Recommender System
 A content-based movie recommendation system built with Machine Learning and deployed using Streamlit. The system analyzes movie metadata including genres, keywords, cast, and crew to suggest the most similar movies to the one you select.
 🔗 Live Demo
-Click here to view the live app — https://your-app-link.streamlit.app
+Click here to view the live app — [https://your-app-link.streamlit.app](https://movie-recommendation-ml-project-ayush.streamlit.app/)
 🚀 Features
 
 Content-based filtering using cosine similarity
